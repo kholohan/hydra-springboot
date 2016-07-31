@@ -1,0 +1,46 @@
+*.class
+*~
+.*.swp
+.*.swo
+.loadpath
+.buildpath
+.project
+.settings/
+.classpath
+.metadata
+.springBeans
+.idea
+*.iml
+*.ipr
+*.iws
+git.properties
+*.log
+.checkstyle
+nbproject
+.DS_Store
+target
+test-output
+nbactions.xml
+build
+release.properties
+**/pom.xml.backup
+**/release.properties
+**/pom.xml.branch
+**/pom.xml.next
+**/pom.xml.releaseBackup
+**/pom.xml.tag
+atlassian-ide-plugin.xml
+.gradle
+/build/
+/bin/
+# Ignore Gradle GUI config
+gradle-app.setting
+
+# Avoid ignoring Gradle wrapper jar file (.jar files are usually ignored)
+!gradle-wrapper.jar
+
+# Cache of project
+.gradletasknamecache
+
+# # Work around https://youtrack.jetbrains.com/issue/IDEA-116898
+# gradle/wrapper/gradle-wrapper.properties
